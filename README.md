@@ -1,5 +1,4 @@
-# Independent-Study
-My independent study. Very fun. 
+
 # Major League Baseball Player Data from 2000
 
 I undertook this independent study to get a better grasp on many of the differrent programs data scientists use in their daily lives. I, as someone who plans to work in baseball for the rest of my life, thought it would be interesting to analyze data from Major League Baseball. Specifically, I wanted to look at how switching teams affects players, and which teams are the best at getting the most from players that were received from other teams.
@@ -8,11 +7,9 @@ Trading and free agent signings are an integral part of the game. Trades are a m
 
 Using Tableau, I created interactive graphs that can allow the viewer to see any player they would like from the year 2000, see how they have done on each of their teams, and easily visualize their performance. 
 
-To view the graphs, you are able to go directly to my account on [Tableau](https://public.tableau.com/app/profile/benjamin.stoopack/viz/BenStoopackData/WARFilterWithSwitch?publish=yes). If not all sheets are showing up, then please click the gear icon in the top right corner, and in the drop down menu turn "Show Sheets" on. 
+Heres a link where you can explore the data through[interactive dashboards](https://public.tableau.com/app/profile/benjamin.stoopack/viz/BenStoopackData/WARFilterWithSwitch?publish=yes). If not all sheets are showing up, then please click the gear icon in the top right corner, and in the drop down menu turn "Show Sheets" on. 
 
 ### Data Dictionary
-
-# `PlayerStats.xlsx`
 
 |variable |class     |description |
 |:--------|:---------|:-----------|
@@ -28,6 +25,3 @@ To view the graphs, you are able to go directly to my account on [Tableau](https
 |Salary   |Number    |Dollars earned during the season    |
 
 
-### Cleaning Script
-
-No data cleaning
