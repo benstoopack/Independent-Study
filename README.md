@@ -7,7 +7,7 @@ Trading and free agent signings are an integral part of the game. Trades are a m
 
 Using Tableau, I created interactive graphs that can allow the viewer to see any player they would like from the year 2000, see how they have done on each of their teams, and easily visualize their performance. 
 
-Heres a link where you can explore the data through [interactive dashboards](https://public.tableau.com/app/profile/benjamin.stoopack/viz/BenStoopackData/WARFilterWithSwitch?publish=yes). If not all sheets are showing up, then please click the gear icon in the top right corner, and in the drop down menu turn "Show Sheets" on. 
+Here is a link where you can explore the data in an [interactive dashboard](https://public.tableau.com/app/profile/benjamin.stoopack/viz/BenStoopackData/WARFilterWithSwitch?publish=yes). If not all sheets are showing up, then please click the gear icon in the top right corner, and in the drop down menu turn "Show Sheets" on. 
 
 ### Data Dictionary
 
